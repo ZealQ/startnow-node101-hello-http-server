@@ -19,6 +19,7 @@
     "nightmare": "^2.10.0"
   },
   "dependencies": {
+    "electron": "^1.8.2",
     "nodemon": "^1.12.1"
   }
 }
